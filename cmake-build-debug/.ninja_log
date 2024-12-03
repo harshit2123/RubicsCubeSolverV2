@@ -1,0 +1,6 @@
+# ninja log v6
+3	979	1733261168417483524	CMakeFiles/RubicsCubeV2.dir/Modal/RubiksCube3dArray.cpp.o	e39a4124204d9220
+3	984	1733261168417675523	CMakeFiles/RubicsCubeV2.dir/Modal/RubiksCube1dArray.cpp.o	94feca5704c07f6c
+3	1135	1733261168417270941	CMakeFiles/RubicsCubeV2.dir/Modal/RubiksCube.cpp.o	4676dd8749b02f03
+13	820	1733261193862332928	CMakeFiles/RubicsCubeV2.dir/main.cpp.o	b6b5111dc3c334ba
+820	966	1733261194669693614	RubicsCubeV2	30e09997c7169e34
